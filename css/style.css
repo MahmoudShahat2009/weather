@@ -1,0 +1,21 @@
+.imges{
+    width: 80px;
+}
+.logo p {
+    font-size:10px;
+    cursor: pointer;
+}
+
+.cotant-weather{
+background-image: url(/images/bird-7411277_1280.jpg);
+background-position: center center ;
+background-size: cover;
+height: 100vh;
+position: relative;
+}
+.contant-box {
+    background-color: rgba(0, 6, 6, 0.7);
+    border-radius: 20px;
+    padding: 5px;
+
+}
